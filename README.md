@@ -20,7 +20,7 @@
 ## My Data Science Portfolio:
 
 * [Análise dos Dados do Airbnb](https://github.com/fvillasb/analise-airbnb) 
-* **** 
+* [Panorama da COVID-19 no Brasil](https://github.com/fvillasb/analise-panorama-COVID-19/blob/main/Panorama_da_COVID_19_no_Brasil.ipynb)
 * **** 
 * **** 
 * **** 
